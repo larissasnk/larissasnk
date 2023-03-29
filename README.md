@@ -1,4 +1,5 @@
 ### Olá, eu sou Larissa Souza! 📫 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 
+![Blue and Purple Geometric Technology Linkedin Banner](https://user-images.githubusercontent.com/124424556/228434612-d2eb6199-c25e-4c63-bc44-2e6e23ff5c05.png)
 
 - 🔭 Atualmente estou cursando o 4° Periodo do curso superior de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi (IFBAIANO)
 - 🌱 Atualmente estou aprendendo Javascript, PHP e Python.
@@ -7,8 +8,8 @@
  
 <div>
 <a href="https://github.com/larissasnk">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissasnk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissasnk&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissasnk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissasnk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
  
 </div>
   
