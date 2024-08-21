@@ -3,8 +3,8 @@
 
 ### Olá, eu sou Larissa Souza! 📫 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 
 
-- 🔭 Atualmente estou cursando o 4° Periodo do curso superior de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi (IFBAIANO)
-- 🌱 Atualmente estou aprendendo Javascript, PHP e Python.
+- 🔭 Atualmente estou cursando o 6° Periodo do curso superior de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi (IFBAIANO)
+- 🌱 Atualmente estou aprendendo PHP e Laravel.
 
 ##
  
@@ -21,7 +21,6 @@
 <img align="center" alt="Larissa-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" alt="Larissa-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="center" alt="Larissa-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
-<img align="center" alt="Larissa-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" alt="Larissa-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="center" alt="Larissa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="Larissa-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
