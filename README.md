@@ -1,6 +1,8 @@
 #Larissa Souza 
 
-**´Desenvolvedora Full Stack´**
+##
+
+**`Desenvolvedora Full Stack`**
 
 💻 Desenvolvedora Full Stack em formação pelo IFBAIANO. Sou curiosa por natureza e movida pelo desafio de fazer as coisas funcionarem. Para mim, programar vai além do código—é entender problemas, buscar soluções inteligentes e transformar ideias em realidade.
 
@@ -9,7 +11,7 @@
 
 ##
  
-<div>
+<div align="center">
 <a href="https://github.com/larissasnk">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissasnk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissasnk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
