@@ -1,4 +1,4 @@
-#Larissa Souza 
+# 👩🏻‍💻 Larissa Souza 
 
 ##
 
@@ -17,7 +17,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissasnk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
  
 </div>
-  
+
+##
   
 <p align="center">
   <a href="https://skillicons.dev">
