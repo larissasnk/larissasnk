@@ -1,4 +1,6 @@
-### Olá, eu sou Larissa! 📫 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 
+#Larissa Souza 
+
+**´Desenvolvedora Full Stack´**
 
 💻 Desenvolvedora Full Stack em formação pelo IFBAIANO. Sou curiosa por natureza e movida pelo desafio de fazer as coisas funcionarem. Para mim, programar vai além do código—é entender problemas, buscar soluções inteligentes e transformar ideias em realidade.
 
