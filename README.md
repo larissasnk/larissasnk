@@ -17,9 +17,10 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c, docker, css, html, docker, figma. git, js, laravel, linux, mysql, php, react" />
+    <img src="https://skillicons.dev/icons?i=c,docker,css,html,figma,git,js,laravel,linux,mysql,php,react" />
   </a>
 </p>
+
   
   
   ## 🌐 Redes Sociais:
