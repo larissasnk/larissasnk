@@ -1,10 +1,9 @@
+### Olá, eu sou Larissa! 📫 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 
 
-![Blue and Purple Geometric Technology Linkedin Banner](https://user-images.githubusercontent.com/124424556/228434612-d2eb6199-c25e-4c63-bc44-2e6e23ff5c05.png)
+💻 Desenvolvedora Full Stack em formação pelo IFBAIANO. Sou curiosa por natureza e movida pelo desafio de fazer as coisas funcionarem. Para mim, programar vai além do código—é entender problemas, buscar soluções inteligentes e transformar ideias em realidade.
 
-### Olá, eu sou Larissa Souza! 📫 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 
+✨ Organizada, resiliente e sempre em busca de aprendizado, acredito que a tecnologia tem o poder de gerar impacto e inovação. Estou pronta para construir soluções que fazem a diferença!
 
-- 🔭 Atualmente estou cursando o 6° Periodo do curso superior de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia Baiano - Campus Guanambi (IFBAIANO)
-- 🌱 Atualmente estou aprendendo PHP e Laravel.
 
 ##
  
@@ -16,17 +15,11 @@
 </div>
   
   
-<div style="display: inline_block"><br>
-  
-<img align="center" alt="Larissa-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="Larissa-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="center" alt="Larissa-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
-<img align="center" alt="Larissa-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="center" alt="Larissa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Larissa-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="Larissa-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c, docker, css, html, docker, figma. git, js, laravel, linux, mysql, php, react" />
+  </a>
+</p>
   
   
   ## 🌐 Redes Sociais:
@@ -34,6 +27,6 @@
   <div> 
   <a href="https://instagram.com/larissasnk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "mailto:larissasouza2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-  <a href="https://www.linkedin.com/in/larissasnk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/larissansk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
