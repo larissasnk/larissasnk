@@ -26,7 +26,6 @@
   </a>
 </p>
 
-##
   
   ## 🌐 Redes Sociais:
 
